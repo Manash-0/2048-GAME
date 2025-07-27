@@ -1,7 +1,7 @@
 # 🧮 2048 Game – Node.js + Express + EJS
 
-A simple 2048 game built using vanilla JavaScript, styled with CSS Grid, and served via an Express.js server with EJS templating.
-
+A simple 2048 game built using vanilla JavaScript, styled with CSS Grid, and served via an Express.js server with EJS templating.<br>
+**Live Demo:** [Play Now](https://two048-game-eark.onrender.com)
 ---
 
 ## 🎮 Features
